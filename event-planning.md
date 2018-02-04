@@ -7,6 +7,10 @@
 - [https://github.com/numfocus/DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook)
 - [https://sparcopen.github.io/opencon-dei-report/index.html](https://sparcopen.github.io/opencon-dei-report/index.html)
 
+### Emojis
+- :question: means you should ask for this beforehand
+- :apple: means low-hanging fruit, easy to implement things
+- :bulb: means high-impact measures you should implement
 
 ## Collecting Accessibility and Health Information in Advance, Ask!
 
@@ -34,7 +38,7 @@ Explicit information about building accessibility should be made available to at
 - [ ] :apple: :bulb: Make sure that hand-held microphones are available
 - [ ] :apple: :bulb: Encourage session chairs to repeat questions from the audience over the mic so everyone can hear
 - [ ] Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
-- [ ] closed captioning can be provided either in real time, or once the talk videos are put online to be more inclusive to those with hearing impairments and those with English as a second language 
+- [ ] :question: closed captioning can be provided either in real time, or once the talk videos are put online to be more inclusive to those with hearing impairments and those with English as a second language 
 
 ## Gender-Neutral Bathrooms
 
@@ -47,6 +51,7 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 - :apple: Provide tampons and pads in **all** restrooms (some people who identify as male have periods and may need them)
 
 ## :apple: Nursing & Pumping Room / Gender-Neutral Bottle Feeding Room
+- [ ] :question: Will there be any parents with babies in the conference? 
 - [ ] The rooms should be clearly labeled to prevent accidental entry, and their locations should be provided in both the print and the online conference directory and maps.
 - [ ] Don't allow anyone (even organizers) to use the room for other purposes.
 - [ ] Ensure there is a dedicated, single-occupancy space with lock.
@@ -68,7 +73,7 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 ## Dietary Restrictions and Allergies
 
 - Common dietary needs to plan for: *Gluten free, Dairy free, Vegan, Vegetarian, Pork free, Shellfish free, Soy free, Nut free, Kosher, Halal.*
-- [ ] :apple: :bulb: When registering for the conference, ask participants to submit any information about dietary restrictions (food allergies, preferences, or religious restrictions). This should be taken into account when ordering meals and catering for participants.
+- [ ] :apple: :bulb: :question: When registering for the conference, ask participants to submit any information about dietary restrictions (food allergies, preferences, or religious restrictions). This should be taken into account when ordering meals and catering for participants.
 - [ ] :bulb: We would recommend ordering more vegetarian/vegan options than required, as they can be eaten by most participants and can help ensure you don’t run out of meal options for participants with many dietary restrictions.
 - All foods should be clearly and accurately labeled. For example, by having a sign/small label in front of each dish with a list of ingredients and common labels (Ask your caterer to create and provide the labels)
 - [ ]  Make sure that there is easy access to drinking water throughout the day in the venue.) 
@@ -86,7 +91,8 @@ participants can be encouraged to attach a ribbon to their conference badge indi
 
 ## Parent-Friendly Events
 In order to create a space that’s inclusive of participants who are parents bringing along small children to the conference, certain additions to the maternity room can be made. Suggestions taken from this article on child friendly conferences might include:
-- [ ]  :apple: Making the agenda public as early as possible so parents can plan accordingly
+- [ ] :question: ask, are there any parents planning to bring their kids to the conference?
+- [ ] :apple: Making the agenda public as early as possible so parents can plan accordingly
 - [ ] :apple: Collect the data on the registration form. How many people would make use of childcare services or grants?
 - [ ] :bulb: List of local children’s resources
 - [ ]  Explicitly allowing children in sessions
