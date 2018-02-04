@@ -1,6 +1,6 @@
 # Conference Organization; Inclusion and Accesibility Recommendations
  
-## Introduction 
+## Introduction 
 
 **NOTE**: All the points shown here were taking directly from the two main sources listed bellow, and adapted to fill the needs of this proposal: 
 
@@ -22,12 +22,12 @@ For those receiving travel scholarships, we strongly recommend that any addition
 Explicit information about building accessibility should be made available to attendees before they arrive to the conference (e.g. is it wheelchair accessible? Are there accessible bathrooms/toilets in the venue building? If there are stairs, how many are there?) 
 
 - [ ] Are there ramps and elevator access?
-- [ ] Do any stairs have handrails?
-- [ ] Are doors easy to open?
-- [ ] Is it a wheelchair accessible space with wheelchair accessible bathrooms?
-- ð Reserve easily-accesible seats for folks who might need it (wheelchair, crutches, cane, etc.)
-- ð Create wide aisles between chairs to make it easier for people who are mobility-impaired to navigate the room.
-- Reduce conference sprawl to support access for people who are mobility-impaired.
+- [ ] Do any stairs have handrails?
+- [ ] Are doors easy to open?
+- [ ] Is it a wheelchair accessible space with wheelchair accessible bathrooms?
+- [ ] :apple:Reserve easily-accesible seats for folks who might need it (wheelchair, crutches, cane, etc.)
+- [ ] :apple: Create wide aisles between chairs to make it easier for people who are mobility-impaired to navigate the room.
+- [ ] :apple: Reduce conference sprawl to support access for people who are mobility-impaired.
 
 ### Disability
 - Consider using patterns rather than just color on signs and presentation slides to indicate differences, to make comprehension easier for attendees with color blindness/low vision issues.
