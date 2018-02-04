@@ -67,8 +67,8 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 
 ## Dietary Restrictions and Allergies
 
+- Common dietary needs to plan for: *Gluten free, Dairy free, Vegan, Vegetarian, Pork free, Shellfish free, Soy free, Nut free, Kosher, Halal.*
 - [ ] :apple: :bulb: When registering for the conference, ask participants to submit any information about dietary restrictions (food allergies, preferences, or religious restrictions). This should be taken into account when ordering meals and catering for participants.
-- ✅ Common dietary needs to plan for: Gluten free, Dairy free, Vegan, Vegetarian, Pork free, Shellfish free, Soy free, Nut free, Kosher, Halal.
 - [ ] :bulb: We would recommend ordering more vegetarian/vegan options than required, as they can be eaten by most participants and can help ensure you don’t run out of meal options for participants with many dietary restrictions.
 - All foods should be clearly and accurately labeled. For example, by having a sign/small label in front of each dish with a list of ingredients and common labels (Ask your caterer to create and provide the labels)
 - [ ]  Make sure that there is easy access to drinking water throughout the day in the venue.) 
