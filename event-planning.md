@@ -67,48 +67,43 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 
 ## Dietary Restrictions and Allergies
 
-When registering for the conference, participants are asked to submit any information about dietary restrictions (food allergies, preferences, or religious restrictions). This is taken into account when ordering meals and catering for participants. Vegetarian options are also included in a when providing participants with a map of restaurants in the area.
-
-We would recommend ordering more vegetarian/vegan options than required, as they can be eaten by most participants and can help ensure you don’t run out of meal options for participants with many dietary restrictions. All foods should be clearly and accurately labeled. Make sure that there is easy access to drinking water throughout the day in the venue.
-
-- ✅ Common dietary needs to plan for: Gluten free, Dairy free, Vegan, Vegetarian, Pork free, Shellfish free, Soy free, Nut free, Kosher, Halal
-- Best to have a sign/small label in front of each dish with a list of ingredients and common labels (e.g. &quot;gluten-free, vegan, includes peanuts&quot;)
-- ð (Ask your caterer to create and provide the labels.
-) 
-- ð Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
+- [ ] :apple: :bulb: When registering for the conference, ask participants to submit any information about dietary restrictions (food allergies, preferences, or religious restrictions). This should be taken into account when ordering meals and catering for participants.
+- ✅ Common dietary needs to plan for: Gluten free, Dairy free, Vegan, Vegetarian, Pork free, Shellfish free, Soy free, Nut free, Kosher, Halal.
+- [ ] :bulb: We would recommend ordering more vegetarian/vegan options than required, as they can be eaten by most participants and can help ensure you don’t run out of meal options for participants with many dietary restrictions.
+- All foods should be clearly and accurately labeled. For example, by having a sign/small label in front of each dish with a list of ingredients and common labels (Ask your caterer to create and provide the labels)
+- [ ]  Make sure that there is easy access to drinking water throughout the day in the venue.) 
+- [ ]  Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
 
 ## Pronoun Ribbons
-participants can be encouraged to attach a ribbon to their conference badge indicating which gender pronoun they prefer (he, she, they, etc.), which should be provided at the registration desk. More information about pronoun ribbons, including the template for the ribbons we used at OpenCon, can be found here: http://www.pronounribbons.org/ 
+participants can be encouraged to attach a ribbon to their conference badge indicating which gender pronoun they prefer (he, she, they, etc.), which should be provided at the registration desk. More information about pronoun ribbons, including the template for the ribbons used at OpenCon, can be found here: http://www.pronounribbons.org/ 
 
 
 ## Q&A Facilitation
-We require that whoever is facilitating the Q&A be cognizant of who is requesting to ask questions. We believe the voices represented in the Q&A discussion should reflect the diversity of the participants, and trying to achieve this means active intervention from facilitators and moderators. Facilitators prioritize questions from those who haven’t yet had a chance to speak, and those from underrepresented groups (women, people of color, people from outside higher income countries). We actively discuss and coordinate this approach with moderators in advance.
 
-For this reason, we would strongly recommend that conference organizers use wireless microphones (or another method that allows the moderator to decide who asks the next question) if at all possible, rather than placing microphones at the front of the room. Using a first come-first serve basis for asking question privileges the most confident voices in the room, and important reactions often come from those who might take a few moments to collect their thoughts or find their voice.
-
+- [ ]  :apple: :bulb: Require that whoever is facilitating the Q&A be cognizant of *who* is requesting to ask questions. We believe the voices represented in the Q&A discussion should reflect the diversity of the participants, and trying to achieve this means active intervention from facilitators and moderators. Facilitators prioritize questions from those who haven’t yet had a chance to speak. Actively discuss and coordinate this approach with moderators in advance.
+- [ ]   We would strongly recommend that conference organizers use wireless microphones (or another method that allows the moderator to decide who asks the next question) if at all possible, rather than placing microphones at the front of the room. 
+- [ ]  Using a first come-first serve basis for asking question privileges the most confident voices in the room, and important reactions often come from those who might take a few moments to collect their thoughts or find their voice.
 
 ## Parent-Friendly Events
 In order to create a space that’s inclusive of participants who are parents bringing along small children to the conference, certain additions to the maternity room can be made. Suggestions taken from this article on child friendly conferences might include:
-
-- Collect the data on the registration form. How many people would make use of childcare services or grants?
-- List of local children’s resources
-- Explicitly allowing children in sessions
-- Providing childcare, or listing local childcare providers/options
-- ✅ Offer financial support for childcare.
-- Build it into your budget: Link it to sponsorships or add an option to the registration, e.g.: &quot;Donate $20 to help with childcare costs.&quot;
-- Making the agenda public as early as possible so parents can plan accordingly
-These are not currently measures we put in place at OpenCon, we are sensitive that people have these needs, and are willing to help provide support within our means. 
+- [ ]  :apple: Making the agenda public as early as possible so parents can plan accordingly
+- [ ] :apple: Collect the data on the registration form. How many people would make use of childcare services or grants?
+- [ ] :bulb: List of local children’s resources
+- [ ]  Explicitly allowing children in sessions
+- [ ]  Providing childcare, or listing local childcare providers/options
+    - [ ]  Offer financial support for childcare.
+    - [ ]  Build it into your budget: Link it to sponsorships or add an option to the registration, e.g.: &quot;Donate $20 to help with childcare costs.&quot;
 
 ## Social Events - Alcohol-Free Events
 
-Some of our nighttime social events include alcohol consumption. However, some participants may not be able to sit a table where someone is consuming alcohol, for religious or personal reasons. We should ensure there are spaces at receptions where alcohol is not being consumed, and explore the option of incorporating alcohol-free events into the evening program. 
-
-Consider diversifying the time of day that social events happen. Not everyone is available (physically or mentally) in the evenings, when social events are typically concentrated.
+Some of our nighttime social events include alcohol consumption. However, some participants may not be able to sit a table where someone is consuming alcohol, for religious or personal reasons. 
+- [ ]  :apple: Ensure there are spaces at receptions where alcohol is not being consumed, and explore the option of incorporating alcohol-free events into the evening program. 
+- [ ]  :apple: :bulb: Consider diversifying the time of day that social events happen. Not everyone is available (physically or mentally) in the evenings, when social events are typically concentrated.
 
 ## Inclusive practices during check-in
-- Managing photography opt-outs using lanyards or ribbons: (green = photos fine; yellow = ask first; red = no photos) 
-- Ribbons for badges can be useful, e.g. **First-Time Attendee.**: Consider what visual cues would encourage people to engage with one another and go out of their way to be friendly to someone.
-- Consider running a mentoring program that matches experienced attendees with first-timers for networking and to provide a friendly resource to get to know the conference.
+- [ ]  Managing photography opt-outs using lanyards or ribbons: (green = photos fine; yellow = ask first; red = no photos) 
+- [ ]  Ribbons for badges can be useful, e.g. **First-Time Attendee.**: Consider what visual cues would encourage people to engage with one another and go out of their way to be friendly to someone.
+- [ ]  Consider running a mentoring program that matches experienced attendees with first-timers for networking and to provide a friendly resource to get to know the conference.
 
 ## Collecting Feedback
 - [ ] After the event, identify areas for improvement. Send out an event feedback form that includes a question on whether participant accessibility needs were met. 
