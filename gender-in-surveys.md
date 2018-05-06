@@ -16,8 +16,7 @@ The recommendations collected in this document are based in the following resour
 - One overall recommendation is to restate the company’s commitment to non-discrimination on the basis of sexual orientation, gender identity or expression immediately prior to asking for self-identification and to clearly state the purpose of the question.
 - As with all sensitive and confidential data, when asking about gender identity and sexual orientation should take care to protect how the data are used, stored and reported as well as consider any legal restrictions on data collection and storage here in the United States as well as globally.
 
-
-###  Gender Identity, Gender Expresion and Sex 
+### Gender Identity, Gender Expresion and Sex 
 
 - Gender Identity: A person's internal, deeply held sense of their gender. For transgender people, their own internal gender identity does not match the sex they were assigned at birth. Most people have a gender identity of man or woman (or boy or girl). For some people, their gender identity does not fit neatly into one of those two choices (see non-binary and/or genderqueer below.) Unlike gender expression (see below) gender identity is not visible to others. source: [GLAAD](https://www.glaad.org/reference/transgender) 
 
