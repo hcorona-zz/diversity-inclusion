@@ -30,7 +30,7 @@ The recommendations collected in this document are based in the following resour
 
 We are actively trying to improve the inclusion and diversity at our event. In order to track the efectivness of our efforts and ensure we conside the needs of all our employeers, please consider answering the following question: 
 
-**To which gender identity do you most identify?**
+**Question: To which gender identity do you most identify?**
 
 ☐  Female
 
