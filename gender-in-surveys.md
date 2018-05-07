@@ -45,20 +45,19 @@ We are actively trying to improve the inclusion and diversity at our event. In o
 
 
 
-## How to ask for your prefered Pronoun
+## How to ask for your Pronoun
 
-When provided, we will include your preferd proonouns in your badge. Please consider answering the following question: 
+When provided, we will include your pronouns in your badge. Please consider answering the following question: 
 
 **Question: What is your prefered pronoun?**
 
-☐  He
+☐  He/Him/His
 
-☐  She
+☐  She/Her/Hers
 
-☐  They
+☐  They/Their/Theirs
 
 ☐  A pronoun not listed  _________________
 
-☐  No pronoun preference 
 
 
