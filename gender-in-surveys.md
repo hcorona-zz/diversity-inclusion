@@ -8,6 +8,7 @@ The recommendations collected in this document are based in the following resour
 - [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) 
 - [GLAAD Media Reference Guide](http://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf) 
 - [Survery Gizmo: How to Write Gender Questions for a Survey  ](https://www.surveygizmo.com/resources/blog/how-to-write-survey-gender-questions/) 
+- [Why Pronouns Are Important, UC Davis](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important)
 
 ## Prior considerations
 
@@ -47,9 +48,9 @@ We are actively trying to improve the inclusion and diversity at our event. In o
 
 ## How to ask for your Pronoun
 
-When provided, we will include your pronouns in your badge. Please consider answering the following question: 
+When provided, we will include your [pronouns](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important)  in your badge. Please consider answering the following question: 
 
-**Question: What is your prefered pronoun?**
+**Question: What is your pronoun?**
 
 ☐  He/Him/His
 
