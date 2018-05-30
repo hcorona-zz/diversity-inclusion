@@ -8,11 +8,15 @@ The recommendations collected in this document are based in the following resour
 - [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) 
 - [GLAAD Media Reference Guide](http://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf) 
 - [Survery Gizmo: How to Write Gender Questions for a Survey  ](https://www.surveygizmo.com/resources/blog/how-to-write-survey-gender-questions/) 
+<<<<<<< HEAD
 - [The Williams Institute, UCLA](https://williamsinstitute.law.ucla.edu/wp-content/uploads/geniuss-report-sep-2014.pdf)  
 
 ### Further reading 
 
 - Some introductiory resources about what it means to be non-binary from [transgenderequality.org](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) 
+=======
+- [Why Pronouns Are Important, UC Davis](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important)
+>>>>>>> 7869b6a7cfbe018051eeba590b1a9fb16639f2da
 
 ## Prior considerations
 
@@ -21,8 +25,7 @@ The recommendations collected in this document are based in the following resour
 - One overall recommendation is to restate the company’s commitment to non-discrimination on the basis of sexual orientation, gender identity or expression immediately prior to asking for self-identification and to clearly state the purpose of the question.
 - As with all sensitive and confidential data, when asking about gender identity and sexual orientation should take care to protect how the data are used, stored and reported as well as consider any legal restrictions on data collection and storage here in the United States as well as globally.
 
-
-###  Gender Identity, Gender Expresion and Sex 
+### Gender Identity, Gender Expresion and Sex 
 
 - Gender Identity: A person's internal, deeply held sense of their gender. For transgender people, their own internal gender identity does not match the sex they were assigned at birth. Most people have a gender identity of man or woman (or boy or girl). For some people, their gender identity does not fit neatly into one of those two choices (see non-binary and/or genderqueer below.) Unlike gender expression (see below) gender identity is not visible to others. source: [GLAAD](https://www.glaad.org/reference/transgender) 
 
@@ -36,7 +39,7 @@ The recommendations collected in this document are based in the following resour
 
 We are actively trying to improve the inclusion and diversity at our event. In order to track the efectivness of our efforts and ensure we conside the needs of all our employeers, please consider answering the following question: 
 
-**To which gender identity do you most identify?**
+**Question: To which gender identity do you most identify?**
 
 ☐  Female
 
@@ -51,20 +54,19 @@ We are actively trying to improve the inclusion and diversity at our event. In o
 
 
 
-## How to ask for your prefered Pronoun
+## How to ask for your Pronoun
 
-When provided, we will include your preferd proonouns in your badge. Please consider answering the following question: 
+When provided, we will include your [pronouns](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important)  in your badge. Please consider answering the following question: 
 
-**Question: What is your prefered pronoun?**
+**Question: What is your pronoun?**
 
-☐  He
+☐  He/Him/His
 
-☐  She
+☐  She/Her/Hers
 
-☐  They
+☐  They/Their/Theirs
 
 ☐  A pronoun not listed  _________________
 
-☐  No pronoun preference 
 
 
