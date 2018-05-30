@@ -8,15 +8,12 @@ The recommendations collected in this document are based in the following resour
 - [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) 
 - [GLAAD Media Reference Guide](http://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf) 
 - [Survery Gizmo: How to Write Gender Questions for a Survey  ](https://www.surveygizmo.com/resources/blog/how-to-write-survey-gender-questions/) 
-<<<<<<< HEAD
 - [The Williams Institute, UCLA](https://williamsinstitute.law.ucla.edu/wp-content/uploads/geniuss-report-sep-2014.pdf)  
+- [Why Pronouns Are Important, UC Davis](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important) 
 
 ### Further reading 
 
 - Some introductiory resources about what it means to be non-binary from [transgenderequality.org](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) 
-=======
-- [Why Pronouns Are Important, UC Davis](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important)
->>>>>>> 7869b6a7cfbe018051eeba590b1a9fb16639f2da
 
 ## Prior considerations
 
