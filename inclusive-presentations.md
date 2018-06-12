@@ -4,13 +4,13 @@ Generally, the elements that are favorable towards accesibility are actually con
 
 Specifically, we write recommendations for the following groups: 
 
-- Color blidness people: Approximately 8% of men and 0.5% of women are colourblind to various extents. There is a wide range of types, and severities, of colourblindness. For more information, there are a number of websites with helpful descriptions
-- People with Hearing difficulties: 
-- People with sight diffigulties: 
+- Color blind people: Approximately 8% of men and 0.5% of women are color blind to various extents. There is a wide range of types, and severities, of color blindness. For more information, there are a number of websites with helpful descriptions
+- People with hearing difficulties: 
+- People with sight difficulties: 
 
 ## Resources 
 
-Most of the ideas ideas collected in this document come directly from the sources shown below. 
+Most of the ideas collected in this document come directly from the sources shown below. 
 
 - [A colorblind Guide to Colorful Presentations](http://www.blopig.com/blog/2013/10/a-colourblind-guide-to-colourful-presentations/)
 - [Design for Color Blindess](http://jfly.iam.u-tokyo.ac.jp/color/)
@@ -23,11 +23,17 @@ Most of the ideas ideas collected in this document come directly from the source
 ## Quick Wins 
 
 - Do not use imaginery that contains sex, violence, or might hurt the sensibility of your large multi-cultural audience. 
-- Keep slides clear, simple and uncrowded.- Use minimal text: cover one subject per slide, ideally using no more than six bullet points.
+- Keep slides clear, simple and uncrowded.
+- Use minimal text: cover one subject per slide, ideally using no more than six bullet points.
 - Ensure every bullet point or item in a list ends with punctuation (e.g. a Full Stop, Semi-Colon or Comma).
-- Make the presentation as multi-sensory as possible; use audio-visual elements to reinforce information.- Make the slides available online beforehand.- Use bold for emphasis, rather than highlighting, underlining or italicising. 
-- Align text to the left or centrally; do not justify both sides,
-- Avoid text which is angled or uses special effects, such as shadows.- Avoid white writing on a dark background.- Dark text on a pastel background works best; dark blue text on cream suits.                                  
+- Make the presentation as multi-sensory as possible; use audio-visual elements to reinforce information.
+- Make the slides available online beforehand.
+- Use bold for emphasis, rather than highlighting, underlining or italicising. 
+- Align text to the left or centrally; do not justify both sides.
+- Avoid text which is angled or uses special effects, such as shadows.
+- Avoid white writing on a dark background.
+- Dark text on a pastel background works best; dark blue text on cream suits.
+                                  
 ## Preparing your slides
 
 - **Don’t only rely only on color to convey a message**: You shouldn’t rely on color alone to convey a message; for example, certain types of color blindness might make it difficult or even impossible to see common red error messages. One approach is to use both colors and symbols where users’ attention is required. A good example of this is Facebook’s form fields and the error messaging attached.
@@ -38,14 +44,14 @@ Most of the ideas ideas collected in this document come directly from the source
 
 - **Avoid bad color combinations**: These are color combinations to avoid because they’re a potential nightmare to color blind users: 
 	- *Green & Red, Green & Brown, Blue & Purple, Green & Blue, Light Green & Yellow, Blue & Grey, Green & Grey, Green & Black*
-	- High contrast colour schemes can be very hard to see. For instance, a presentation with a white background can make it difficult to see coloured things on the slide, as everything is drowned out by the white background – especially yellow/green text. It is also very tiring to the eye. Try dark-coloured fonts on a light-coloured background.
+	- High contrast color schemes can be very hard to see. For instance, a presentation with a white background can make it difficult to see colored things on the slide, as everything is drowned out by the white background – especially yellow/green text. It is also very tiring to the eye. Try dark-colored fonts on a light-coloured background.
 
 
 - **Avoid the use of complex visual effects:**: moving, flashing or dissolving images and graphics are distracting and cause visual distortion. Keep slide transitions consistent and simple.
 
 - **Use Punctuation:** When using bullet points and lists ensure every point is ended with punctuation (e.g. a Full Stop, Semi-Colon or Comma). This will enable a Visual impaired user using a screen reader to distinguish between different ideas. Without the presence of punctuation different ideas will be read as a single sentence and become confusing for the user.
 
-- **Use the right font:** (22 - 226 pt), sans serif fonts, and sufficient white space. Also, be consistent in your use of font, colour and background, and avoid too much variation in font style and size.
+- **Use the right font:** (22 - 226 pt), sans serif fonts, and sufficient white space. Also, be consistent in your use of font, color and background, and avoid too much variation in font style and size.
 	- For people who have dyslexia or have low vision, reduce the reading load. For example, they may benefit from familiar sans serif fonts, such as Arial or Calibri. Avoid using all capital letters and excessive italics or underlines. Include ample white space between sentences and paragraphs.
 	- People who have dyslexia describe seeing text “swim together” on a page (the compressing of one line of text into the line below). They often see text merge or distort. 
 
@@ -58,7 +64,7 @@ Most of the ideas ideas collected in this document come directly from the source
 - **Add meaningful hyperlink text and ScreenTips**. People who use screen readers sometimes scan a list of links. Links should convey clear and accurate information about the destination. For example, instead of linking to the text Click here, include the full title of the destination page.
 
 
-- **Accesibility of videos:** If you have videos on your presentation, make sure they are accessible to visually impaired and hearing-impaired users. closed captions typically contain a transcription (or translation) of the dialogue, as well as describe audio cues such as music or sound effects that occur off-screen.
+- **Accesibility of videos:** If you have videos on your presentation, make sure they are accessible to visually impaired and hearing-impaired users. Closed captions typically contain a transcription (or translation) of the dialogue, as well as describe audio cues such as music or sound effects that occur off-screen.
 
 ## When Presenting 
 
@@ -69,7 +75,7 @@ Most of the ideas ideas collected in this document come directly from the source
 
 - **Avoid the use of gender-binary terminology on your presentation**: For example, when welcoming the audience, do not use "ladies and gentlemen", "boys and girls" or similar terminology which is not inclusive. For more information read our recommendations on [collecting gender-inclusive data](gender-in-surveys.md)
 
-- Avoid the use of terminology or examples that might be inpolite towards certain groups, specially minority groups. Also  be mindful of using cliche examples that depict any social groups or communities in a way that can be precieved negatively.  
+- Avoid the use of terminology or examples that might be inpolite towards certain groups, specially minority groups. Also  be mindful of using cliche examples that depict any social groups or communities in a way that can be percieved negatively.  
 
 
 ## Support from Conference Organizers 
