@@ -1,3 +1,8 @@
+### Reading list - books 
+
+The list of books shown below is the the inventory of books owned by Zalando's diveristy guild library. It is not intended as a complete guide of diversity & inclusion books. If you have suggestions, you can reach out to me directly. 
+
+
 | Book title                                                                         | Author                                            |
 |------------------------------------------------------------------------------------|---------------------------------------------------|
 | A Web for Everyone: Designing Accessible User Experiences                          | Sarah Horton                                      |
@@ -35,3 +40,4 @@
 | Why I'm No Longer Talking to White People About Race                               | Reni Eddo-Lodge (Paperback)                       |
 | Eloquent Rage: A Black Feminist Discovers Her Superpower                           | Brittney Cooper                                   |
 | Gay, Straight, and the Reason Why: The Science of Sexual Orientation               | Simon LeVay (Paperback)                           |
+
