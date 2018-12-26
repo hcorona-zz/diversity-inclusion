@@ -1,42 +1,21 @@
-# Inclusive Presentations 
+In general terms, the elements that are favorable towards accesibility are also considered to be good design practices in the wider sense. While there is not a one-size-fits-all solution, if your presentation is well designed, it should already be accessible to most people. That means when you follow this guide, your presentation will be awesome for everyone.
 
-In general terms, the elements that are favorable towards accesibility are also considered to be good design practices in the wider sense. While there is not a one-size-fits-all solution, if your presentation is well designed, it should already be accessible to most people. 
-
-The recommendations collected in this document aim to include:
-
-- Color blind people: Approximately 8% of men and 0.5% of women are color blind to various extents. There is a wide range of types, and severities, of color blindness ([Wikipedia page on Color Blidness](https://en.wikipedia.org/wiki/Color_blindness)).
-- People with hearing difficulties:  Approximately 15% of American adults (37.5 million) aged 18 and over report some trouble hearing ([source: National Intitute on Deafness and Other Communication Disorders, USA](https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing)).
-- People with sight difficulties: Aproximately 6% of Americans aged 12 and over are visually impaired ([source: National Eye Institue, USA.](https://www.nei.nih.gov/CanWeSee/)).
-- People with dyslexia: Aproximately 10% of the population are dyslexic; 4% severely so. ([source British Dislexya Association](https://www.bdadyslexia.org.uk/about)).
-
-## Resources 
-
-All the ideas collected in this document are a summary of the the sources listed below. 
-
-- [A colorblind Guide to Colorful Presentations](http://www.blopig.com/blog/2013/10/a-colourblind-guide-to-colourful-presentations/)
-- [Design for Color Blindess](http://jfly.iam.u-tokyo.ac.jp/color/)
-- [How to Design for Color Blidness](https://medium.theuxblog.com/how-to-design-for-color-blindness-a6f083b08e12)
-- [Make your Powerpoint Presentations Accessible](https://support.office.com/en-ie/article/make-your-powerpoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
-- [A Guide to Dyslexia](https://www.yorksj.ac.uk/media/content-assets/student-services/documents/A-Guide-to-Dyslexia-(PowerPoint)-A5.pdf)
-- [Accessible information](https://www.tcd.ie/CAPSL/TIC/accessible-info/powerpoint/index.php)
-
-
-## Quick Wins
+# General Tips 
 
 - Do not use imaginery that contains sex, violence, or might hurt the sensibility of your large multi-cultural audience. 
 - Keep slides clear, simple and uncrowded.
 - Use minimal text: cover one subject per slide, ideally using no more than six bullet points.
 - Ensure every bullet point or item in a list ends with punctuation (e.g. a Full Stop, Semi-Colon or Comma).
 - Make the presentation as multi-sensory as possible; use audio-visual elements to reinforce information.
-- Make the slides available online beforehand.
+- Make the slides available online beforehand, tagging @acmrecsys and #recsysYYYY.
 - Use bold for emphasis, rather than highlighting, underlining or italicising. 
 - Align text to the left or centrally; do not justify both sides.
 - Avoid text which is angled or uses special effects, such as shadows.
 - Avoid white writing on a dark background.
 - Dark text on a pastel background works best; dark blue text on cream suits.
-                                  
-## Preparing your slides
-
+    
+# In-depth Advise : Preparing your slides 
+    
 - **Don’t only rely only on color to convey a message**: You shouldn’t rely on color alone to convey a message; for example, certain types of color blindness might make it difficult or even impossible to see a common red error messages. One approach is to use both colors and symbols where people’ attention is required. 
 
 - **Keep it minimal**: You should limit the color palette you use for your presentation; the fewer colors you use in your design, the fewer instances there will be for confusion.
@@ -67,21 +46,41 @@ All the ideas collected in this document are a summary of the the sources listed
 
 - **Accesibility of videos:** If you have videos on your presentation, make sure they are accessible to visually impaired and hearing-impaired people. Closed captions typically contain a transcription (or translation) of the dialogue, as well as describe audio cues such as music or sound effects that occur off-screen.
 
-## When Presenting 
+## In-depth Advise : when Presenting 
 
 - **Be specific when talking about visual elements in your slides:** try not to refer to ‘the red box’. Refer instead to ‘the rounded red box in the top-right of the screen’.
 
 - **Please don’t use red laser pointers**:  The red light is not easily distinguishable on bright screens. Use a green laser pointer instead. Not only are green laser pointers generally more powerful, and therefore brighter, but they are also easier to see.
-
 
 - **Avoid the use of gender-binary terminology on your presentation**: For example, when welcoming the audience, do not use "ladies and gentlemen", "boys and girls" or similar terminology which is not inclusive. For more information read our recommendations on [Collecting gender-inclusive data in Surveys](gender-in-surveys.md).
 
 - Avoid the use of terminology or examples that might be inpolite towards certain groups, specially minority groups. Also  be mindful of using cliche examples that depict any social groups or communities in a way that can be percieved negatively.  
 
 
-## Support from Conference Organizers 
+## In-depth Advise: Support from Conference Organizers 
 
 - Live Captioning is a great idea for people with difficulties of hearing, and also useful to non-native English speakers. We propose to collect data about the need for live captioning, and to consider it in future conferences.
 - If the talk videos are published, they should include transcriptions. Youtube adds automatica transcriptions for some videos. 
 - Using a Q&A system that does not requires standing, either by bringing microphones to the audience, or by using online Q&A systems such as [sli.do](sli.do) is generally a good idea. I propose to pilot it during the workshops this year, and roll it out next year if it gets positive feedback. 
+
+
+#  Footnoes 
+
+The recommendations collected in this document aim to include:
+
+- Color blind people: Approximately 8% of men and 0.5% of women are color blind to various extents. There is a wide range of types, and severities, of color blindness ([Wikipedia page on Color Blidness](https://en.wikipedia.org/wiki/Color_blindness)).
+- People with hearing difficulties:  Approximately 15% of American adults (37.5 million) aged 18 and over report some trouble hearing ([source: National Intitute on Deafness and Other Communication Disorders, USA](https://www.nidcd.nih.gov/health/statistics/quick-statistics-hearing)).
+- People with sight difficulties: Aproximately 6% of Americans aged 12 and over are visually impaired ([source: National Eye Institue, USA.](https://www.nei.nih.gov/CanWeSee/)).
+- People with dyslexia: Aproximately 10% of the population are dyslexic; 4% severely so. ([source British Dislexya Association](https://www.bdadyslexia.org.uk/about)).
+
+
+All the ideas collected in this document are a summary of the the sources listed below. 
+
+- [A colorblind Guide to Colorful Presentations](http://www.blopig.com/blog/2013/10/a-colourblind-guide-to-colourful-presentations/)
+- [Design for Color Blindess](http://jfly.iam.u-tokyo.ac.jp/color/)
+- [How to Design for Color Blidness](https://medium.theuxblog.com/how-to-design-for-color-blindness-a6f083b08e12)
+- [Make your Powerpoint Presentations Accessible](https://support.office.com/en-ie/article/make-your-powerpoint-presentations-accessible-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
+- [A Guide to Dyslexia](https://www.yorksj.ac.uk/media/content-assets/student-services/documents/A-Guide-to-Dyslexia-(PowerPoint)-A5.pdf)
+- [Accessible information](https://www.tcd.ie/CAPSL/TIC/accessible-info/powerpoint/index.php)
+
 
