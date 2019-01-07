@@ -1,21 +1,14 @@
 # Inclusive Language in Presentations 
 
-In this document, we summarize some general guideliness that you can follow to make sure the language of your presentations is more inclusive. The literature we reviewed is foused on two main problems, which are the most common ones
-
-1. Using generic masculine words or titles to refer to all persons, or to refer to an abstract "person" whom gender is not known. 
-2. Using terms or expressions that reinforce inappropriate, outdated, or demeaning attitudes or assumptions about persons or groups based on age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation.
-
-This document can not provide a solution for all the cases, and sometimes the proposed lanauge might not work for you. In that case (and any case), remember that **Good judgement is always critical**, and that this document serves only as a guideline. 
-
+In this document, we summarize some general guideliness that you can follow to make sure the language of your presentations is more inclusive. We don't yet provide guideliness for all possible scenarios, and sometimes the proposed language might not work for your presenentation. In that case, remember that **good judgement is always critical**, and that this document serves only as a guideline. 
 
 ## General Avise to improve your Presentations: 
  
-
 * When welcoming, refering to or interactignwith your audience: 
-	*  ❌ do not use: ladies and genetlman, boys and girls, men and women of the audience, brothers and siters, her or she, sir madam
+	*  ❌ do not use: ladies and genetlman, boys and girls, men and women of the audience, brothers and sisters, her or she, sir madam
 	* ✅ instead, use : Esteemed guests, that person, friends and colleagues, students, siblings, everyone, the participants, faculty members. 
 
-* When presenting, you might have to talk about people in the LGBTQ+ community.  Avoid oudated terms when refering to them. Some terms might be offensive because they could imply criminalization or pathologization or they could simply be misnomers.
+* When presenting, you might have to talk to or about people in the LGBTQ+ community.  Avoid oudated terms when refering to them. Some terms might be offensive because they could imply criminalization or pathologization or they could simply be misnomers.
 
 	| ❌ outdated    | ✅alternative |
 	|-------------|-------------|
@@ -28,7 +21,6 @@ This document can not provide a solution for all the cases, and sometimes the pr
 	| "hermaphrodite," | "intersex." | 
 	| "homosexual," | "gay" or "lesbian." | 
 
-
 * Avoid Inherently sexist words:  avoid using different words for men and women who perform the same job, and avoid using a masculine noun to encompass both; instead, use a non-gender specific title.
 
 	| ❌ do not use    | ✅ alternative |
@@ -38,7 +30,7 @@ This document can not provide a solution for all the cases, and sometimes the pr
 	| chairman | chair person|  
 		
 		
-## In-depth advise: a less biased use of langage
+## A less biased use of langage
 
 * In your presentation, make sure not all the subjects are of the same gender. Even better, don't assume a gender, unless it is necesary: 
 
@@ -50,12 +42,16 @@ This document can not provide a solution for all the cases, and sometimes the pr
 | "Somebody left his sweater" | instead, use the singular they: "Somebody left their sweater" | 
 
 	
-## Peer-Review beyond the data
+## Being careful on how to present fidings 
 
 If your work studies a subject (or includes data) that is related to age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation, we strongly suggest you review this work with people whom might be represented in your data, and/or collagues from sociology, gender studies or queer studies departments, even before publishing. 
 
 The use of generalization from the data to characterize or stereothype any of the groups mentioned above is not recommended. Be specific, stay fact based and use inclusive language when talking about them. 
 
+## Other general notes 
+
+* Using generic masculine words or titles to refer to all persons, or to refer to an abstract "person" whom gender is not known is not a good idea.  
+* Using terms or expressions that reinforce inappropriate, outdated, or demeaning attitudes or assumptions about persons or groups based on age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation.
 
 # References: 
 
@@ -65,3 +61,7 @@ Most of the ideas summarized here come from resources from different private and
 * [Good Practices: Inclusive Language](https://lgbt.umd.edu/good-practices-inclusive-language), by University of Maryland. 
 * [LGBTQ-inclusive language DOs and DON'ts](https://thesafezoneproject.com/wp-content/uploads/2017/07/SZP-Language-DO-DONT-Handout.pdf), by The Safe Zone Project.
 * [An Ally's guide to therminology](http://www.glaad.org/sites/default/files/allys-guide-to-terminology_1.pdf), by GLAAD
+
+
+
+
