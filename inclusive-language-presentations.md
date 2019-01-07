@@ -1,4 +1,4 @@
-# Inclusive-language
+# Inclusive Language in Presentations 
 
 In this document, we summarize some general guideliness that you can follow to make sure the language of your presentations is more inclusive. The literature we reviewed is foused on two main problems, which are the most common ones
 
