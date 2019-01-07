@@ -53,7 +53,7 @@ The use of generalization from the data to characterize or stereothype any of th
 * Using generic masculine words or titles to refer to all persons, or to refer to an abstract "person" whom gender is not known is not a good idea.  
 * Using terms or expressions that reinforce inappropriate, outdated, or demeaning attitudes or assumptions about persons or groups based on age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation.
 
-# References: 
+## References 
 
 Most of the ideas summarized here come from resources from different private and public institutions. Please refer direclty to the links shown below if you want to learn more.   
 
