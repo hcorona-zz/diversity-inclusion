@@ -10,5 +10,5 @@ This repository collects the guideliness to run more inclusive and diverse confe
 - Share with the people presenting the two guidelines for presentations:  [accessible  presentations](https://github.com/hcorona/diversity-inclusion/blob/master/accesible-presentations.md) and the [inclusive language in presentations](https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md). Make sure people are aware that they should follow these guideliness. 
 
 
-### Contact 
+## Contact 
 contact us via issues if you have any questions or want to contribute
