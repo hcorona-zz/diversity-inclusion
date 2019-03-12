@@ -42,7 +42,7 @@ In this document, we summarize some general guideliness that you can follow to m
 | "Somebody left his sweater" | instead, use the singular they: "Somebody left their sweater" | 
 
 	
-## Being careful on how to present fidings 
+## Being careful on how to present findings 
 
 If your work studies a subject (or includes data) that is related to age, disability, ethnicity, gender, national origin, race, religion, or sexual orientation, we strongly suggest you review this work with people whom might be represented in your data, and/or collagues from sociology, gender studies or queer studies departments, even before publishing. 
 
