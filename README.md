@@ -11,9 +11,13 @@ In order for conferences to be accessible and inclusive, the preparation should 
 - Have presentation guideliness always available in the conference website, like those in the [RecSys'19 website](https://recsys.acm.org/recsys19/presentation-guidelines/). The proposed guideliness are: [accessible  presentations](https://github.com/hcorona/diversity-inclusion/blob/master/accesible-presentations.md) and the [inclusive language in presentations](https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md). 
 
 ### During the Conference Planning
+- If your conference is part of SIGCHI, please be aware of the high-level conference accessibility requirements [Organizing a SIGCHI Sponsored Conference](https://sigchi.org/conferences/organizer-resources/organising-a-sigchi-sponsored-or-co-sponsored-conference/#accessibility)
 -  Make a copy of the [ACM RecSys - Accessibility Questionary](https://docs.google.com/document/d/12OI9l1XCmC4FxN4RC76HyQojRVGsc1ycFHxkYPv2mnU/edit#heading=h.r034z6gz8810) and share it with the relevant chairs, making sure they fill all the questions. Follow up regularly.
 -  Go through the [Event Planning List](https://github.com/hcorona/diversity-inclusion/blob/master/event-planning.md) with the conference organizers and think about what can you do, what can't you do. If any of the things you can not do might be a problem for some people, be transparent about why you are not able to acomodate people's needs. 
 - Review with the conference venue the Accesibility Questionary and the Event Planning List. 
+- Assess sites for accessibility before contracts are signed. Example things you might want to negotiate up front include small rooms for quiet space, and sufficient seating.
+
+
 
 ### When the talks are accepted.
 - Remind presenters to follow the presentation guideliness (they should already available in the conference site)
