@@ -1,11 +1,12 @@
 # Conference Organization; Inclusion and Accesibility Recommendations
  
 ## Introduction 
+This document is updated following the [SIGACCESS accessible conference guide (version 2.6)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#communicating) which covers the most important accessibility needs. Thus, the focus of this document is to expland on it, based on other resources such as [https://github.com/numfocus/DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook) and [https://sparcopen.github.io/opencon-dei-report/index.html](https://sparcopen.github.io/opencon-dei-report/index.html)
 
-**NOTE**: All the points shown here were taking directly from the two main sources listed bellow, and adapted to fill the needs of this proposal: 
-
-- [https://github.com/numfocus/DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook)
-- [https://sparcopen.github.io/opencon-dei-report/index.html](https://sparcopen.github.io/opencon-dei-report/index.html)
+### Aditional Resources 
+Some communities have specific accessibility needs that are not detailed in this document. Please read the following resources to ensure your event is accessible to everyone:
+-  [Making Queer Events Accessible for the Deaf Community: A How-To Guide, by Alex Lu, Accessibility Director for the British Columbia Rainbow Alliance of the Deaf](http://www.moseslab.csb.utoronto.ca/alexlu/deaf_event_accessibility.pdf)
+- 
 
 ### Emojis
 - :question: means you should ask for this beforehand
@@ -14,11 +15,9 @@
 
 ## Collecting Accessibility and Health Information in Advance, Ask!
 
-While we encourage conference planners to design their event in a way that is accessible as possible, participants should also be asked about any specific accessibility needs in advance. This could be done through a pre-conference email or collected through a question in the conference registration form.
+While we encourage conference planners to design their event in a way that is accessible as possible, participants should also be asked about any specific accessibility needs in advance (at paper aceptance time or when registering). This could be done through a pre-conference email or collected through a question in the conference registration form. 
 
-Depending on our budget, information collected could include specific access needs (e.g. sign language interpreters, transcription, visual impairments), health requests, and dietary constraints. Offer the option of discussing accessibility needs over the phone; this can minimize forming assumptions about the needs of the participant.
-
-For those receiving travel scholarships, we strongly recommend that any additional travel costs incurred due to accessibility considerations be covered by conference organizers—not the participant. 
+Depending on the budget, information collected could include specific access needs (e.g. sign language interpreters, transcription, visual impairments), health requests, and dietary constraints. Offer the option of discussing accessibility needs over the phone; this can minimize forming assumptions about the needs of the participant. Pleae reserve enough money into the conference budget to fund any requests. 
 
 
 ## General Venue Accesibility 
@@ -82,7 +81,6 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 ## Pronoun Ribbons
 participants can be encouraged to attach a ribbon to their conference badge indicating which gender pronoun they prefer (he, she, they, etc.), which should be provided at the registration desk. More information about pronoun ribbons, including the template for the ribbons used at OpenCon, can be found here: http://www.pronounribbons.org/ 
 
-
 ## Q&A Facilitation
 
 - [ ]  :apple: :bulb: Require that whoever is facilitating the Q&A be cognizant of *who* is requesting to ask questions. We believe the voices represented in the Q&A discussion should reflect the diversity of the participants, and trying to achieve this means active intervention from facilitators and moderators. Facilitators prioritize questions from those who haven’t yet had a chance to speak. Actively discuss and coordinate this approach with moderators in advance.
@@ -99,6 +97,11 @@ In order to create a space that’s inclusive of participants who are parents br
 - [ ]  Providing childcare, or listing local childcare providers/options
     - [ ]  Offer financial support for childcare.
     - [ ]  Build it into your budget: Link it to sponsorships or add an option to the registration, e.g.: &quot;Donate $20 to help with childcare costs.&quot;
+    
+## Social Events - Inclusion
+- [ ]  :apple: Make all attendees aware that it is their responsability to provide an inclusive enviroment. For example, by following the suggestion in the [SIGACCESS Accessibility conference planning Appendix C](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#communicating) 
+- [ ]  :apple: When talking to someone, do not assume their gender.
+- [ ] :apple: Ensure ASL Interpreters and/or any other attendee assistant can attend all social events. 
 
 ## Social Events - Alcohol-Free Events
 
@@ -113,3 +116,6 @@ Some of our nighttime social events include alcohol consumption. However, some p
 
 ## Collecting Feedback
 - [ ] After the event, identify areas for improvement. Send out an event feedback form that includes a question on whether participant accessibility needs were met. 
+
+## Funding Travel for people with Accessibility needs
+- [ ] For those receiving travel scholarships, we strongly recommend that any additional travel costs incurred due to accessibility considerations be covered by conference organizers—not the participant. 
