@@ -3,6 +3,7 @@
 ## Introduction 
 This document is updated following the [SIGACCESS accessible conference guide (version 2.6)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#communicating) which covers the most important accessibility needs. Thus, the focus of this document is to expland on it, based on other resources such as [https://github.com/numfocus/DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook) and [https://sparcopen.github.io/opencon-dei-report/index.html](https://sparcopen.github.io/opencon-dei-report/index.html)
 
+
 ### Aditional Resources 
 Some communities have specific accessibility needs that are not detailed in this document. Please read the following resources to ensure your event is accessible to everyone:
 -  [Making Queer Events Accessible for the Deaf Community: A How-To Guide, by Alex Lu, Accessibility Director for the British Columbia Rainbow Alliance of the Deaf](http://www.moseslab.csb.utoronto.ca/alexlu/deaf_event_accessibility.pdf)
@@ -60,8 +61,8 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 
 - [ ] A dedicated room for people who need a break from the stimulation of being surrounded by people at the conference, or just needs a quiet space away from the main conference
 - [ ] Label the room accordingly.
-  - No phone calls, talking/socializing, etc.
-  - Put notifications on silent/vibrate.
+    - No phone calls, talking/socializing, etc.
+    - Put notifications on silent/vibrate.
  
 ## :apple: :bulb: Prayer Room
 - [ ] Some faiths require prayer at different points of the day. To accommodate this, it’s important to make a quiet room available for those who need to pray. Tell participants in advance that this room will be available in conference communications.
@@ -74,7 +75,7 @@ Make sure that gender neutral bathrooms are easily accessible in the building(s)
 - Common dietary needs to plan for: *Gluten free, Dairy free, Vegan, Vegetarian, Pork free, Shellfish free, Soy free, Nut free, Kosher, Halal.*
 - [ ] :apple: :bulb: :question: When registering for the conference, ask participants to submit any information about dietary restrictions (food allergies, preferences, or religious restrictions). This should be taken into account when ordering meals and catering for participants.
 - [ ] :bulb: We would recommend ordering more vegetarian/vegan options than required, as they can be eaten by most participants and can help ensure you don’t run out of meal options for participants with many dietary restrictions.
-- All foods should be clearly and accurately labeled. For example, by having a sign/small label in front of each dish with a list of ingredients and common labels (Ask your caterer to create and provide the labels)
+    - All foods should be clearly and accurately labeled. For example, by having a sign/small label in front of each dish with a list of ingredients and common labels (Ask your caterer to create and provide the labels)
 - [ ]  Make sure that there is easy access to drinking water throughout the day in the venue.) 
 - [ ]  Make sure to include a variety of beverages, in particular non-alcoholic and non-caffeinated.
 
@@ -101,7 +102,7 @@ In order to create a space that’s inclusive of participants who are parents br
 ## Social Events - Inclusion
 - [ ]  :apple: Make all attendees aware that it is their responsability to provide an inclusive enviroment. For example, by following the suggestion in the [SIGACCESS Accessibility conference planning Appendix C](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#communicating) 
 - [ ]  :apple: When talking to someone, do not assume their gender.
-- [ ] :apple: Ensure ASL Interpreters and/or any other attendee assistant can attend all social events. 
+- [ ]  :apple: Ensure ASL Interpreters and/or any other attendee assistant can attend all social events. 
 
 ## Social Events - Alcohol-Free Events
 
@@ -118,4 +119,4 @@ Some of our nighttime social events include alcohol consumption. However, some p
 - [ ] After the event, identify areas for improvement. Send out an event feedback form that includes a question on whether participant accessibility needs were met. 
 
 ## Funding Travel for people with Accessibility needs
-- [ ] For those receiving travel scholarships, we strongly recommend that any additional travel costs incurred due to accessibility considerations be covered by conference organizers—not the participant. 
+- [ ] For those receiving travel scholarships, we strongly recommend that any additional travel costs incurred due to accessibility considerations be covered by conference organizers—not the participant. 
