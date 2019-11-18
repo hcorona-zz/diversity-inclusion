@@ -1,27 +1,27 @@
-# Conference Organization; Inclusion and Accesibility Recommendations
+# Conference Organization; Inclusion and Accessibility Recommendations
  
 ## Introduction 
-This document is updated following the [SIGACCESS accessible conference guide (version 2.6)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#communicating) which covers the most important accessibility needs. Thus, the focus of this document is to expland on it, based on other resources such as [https://github.com/numfocus/DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook) and [https://sparcopen.github.io/opencon-dei-report/index.html](https://sparcopen.github.io/opencon-dei-report/index.html)
+This document is updated following the [SIGACCESS accessible conference guide (version 2.6)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#communicating) which covers the most important accessibility needs. Thus, the focus of this document is to expand on it, based on other resources such as [https://github.com/numfocus/DISCOVER-Cookbook](https://github.com/numfocus/DISCOVER-Cookbook) and [https://sparcopen.github.io/opencon-dei-report/index.html](https://sparcopen.github.io/opencon-dei-report/index.html)
 
 
-### Aditional Resources 
+### Additional Resources 
 Some communities have specific accessibility needs that are not detailed in this document. Please read the following resources to ensure your event is accessible to everyone:
 -  [Making Queer Events Accessible for the Deaf Community: A How-To Guide, by Alex Lu, Accessibility Director for the British Columbia Rainbow Alliance of the Deaf](http://www.moseslab.csb.utoronto.ca/alexlu/deaf_event_accessibility.pdf)
 - 
 
-### Emojis
+### Emoji
 - :question: means you should ask for this beforehand
 - :apple: means low-hanging fruit, easy to implement things
 - :bulb: means high-impact measures you should implement
 
 ## Collecting Accessibility and Health Information in Advance, Ask!
 
-While we encourage conference planners to design their event in a way that is accessible as possible, participants should also be asked about any specific accessibility needs in advance (at paper aceptance time or when registering). This could be done through a pre-conference email or collected through a question in the conference registration form. 
+While we encourage conference planners to design their event in a way that is as accessible as possible, participants should also be asked about any specific accessibility needs in advance (at paper acceptance time or when registering). This could be done through a pre-conference email or collected through a question in the conference registration form. 
 
-Depending on the budget, information collected could include specific access needs (e.g. sign language interpreters, transcription, visual impairments), health requests, and dietary constraints. Offer the option of discussing accessibility needs over the phone; this can minimize forming assumptions about the needs of the participant. Pleae reserve enough money into the conference budget to fund any requests. 
+Depending on the budget, information collected could include specific access needs (e.g. sign language interpreters, transcription, visual impairments), health requests, and dietary constraints. Offer the option of discussing accessibility needs over the phone; this can minimize forming assumptions about the needs of the participant. Please reserve enough money into the conference budget to fund any requests. 
 
 
-## General Venue Accesibility 
+## General Venue Accessibility 
 
 Explicit information about building accessibility should be made available to attendees before they arrive to the conference (e.g. is it wheelchair accessible? Are there accessible bathrooms/toilets in the venue building? If there are stairs, how many are there?) 
 
@@ -86,7 +86,7 @@ participants can be encouraged to attach a ribbon to their conference badge indi
 
 - [ ]  :apple: :bulb: Require that whoever is facilitating the Q&A be cognizant of *who* is requesting to ask questions. We believe the voices represented in the Q&A discussion should reflect the diversity of the participants, and trying to achieve this means active intervention from facilitators and moderators. Facilitators prioritize questions from those who haven’t yet had a chance to speak. Actively discuss and coordinate this approach with moderators in advance.
 - [ ]   We would strongly recommend that conference organizers use wireless microphones (or another method that allows the moderator to decide who asks the next question) if at all possible, rather than placing microphones at the front of the room. 
-- [ ]  Using a first come-first serve basis for asking question privileges the most confident voices in the room, and important reactions often come from those who might take a few moments to collect their thoughts or find their voice.
+- [ ]  Using a first come-first serve basis for asking questions privileges the most confident voices in the room, and important reactions often come from those who might take a few moments to collect their thoughts or find their voice.
 
 ## Parent-Friendly Events
 In order to create a space that’s inclusive of participants who are parents bringing along small children to the conference, certain additions to the maternity room can be made. Suggestions taken from this article on child friendly conferences might include:

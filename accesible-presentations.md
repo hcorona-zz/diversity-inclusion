@@ -2,7 +2,7 @@ In general terms, the elements that are favorable towards accesibility are also 
 
 # General Tips 
 
-- Do not use imaginery that contains sex, violence, or might hurt the sensibility of your large multi-cultural audience. 
+- Do not use imagery that contains sex, violence, or might hurt the sensibility of your large multi-cultural audience. 
 - Keep slides clear, simple and uncrowded.
 - Use minimal text: cover one subject per slide, ideally using no more than six bullet points.
 - Ensure every bullet point or item in a list ends with punctuation (e.g. a Full Stop, Semi-Colon or Comma).
@@ -14,9 +14,9 @@ In general terms, the elements that are favorable towards accesibility are also 
 - Avoid white writing on a dark background.
 - Dark text on a pastel background works best; dark blue text on cream suits.
     
-# In-depth Advise : Preparing your slides 
+# In-depth Advice: Preparing your slides 
     
-- **Don’t only rely only on color to convey a message**: You shouldn’t rely on color alone to convey a message; for example, certain types of color blindness might make it difficult or even impossible to see a common red error messages. One approach is to use both colors and symbols where people’ attention is required. 
+- **Don’t only rely only on color to convey a message**: You shouldn’t rely on color alone to convey a message; for example, certain types of color blindness might make it difficult or even impossible to see a common red error message. One approach is to use both colors and symbols where people’s attention is required. 
 
 - **Keep it minimal**: You should limit the color palette you use for your presentation; the fewer colors you use in your design, the fewer instances there will be for confusion.
 
@@ -28,7 +28,7 @@ In general terms, the elements that are favorable towards accesibility are also 
 
 - **Avoid the use of complex visual effects:**: moving, flashing or dissolving images and graphics are distracting and cause visual distortion. Keep slide transitions consistent and simple.
 
-- **Use Punctuation:** When using bullet points and lists ensure every point is ended with punctuation (e.g. a Full Stop, Semi-Colon or Comma). This will enable a Visual impaired user using a screen reader to distinguish between different ideas. Without the presence of punctuation different ideas will be read as a single sentence and become confusing for the user.
+- **Use Punctuation:** When using bullet points and lists, ensure every point is ended with punctuation (e.g. a Full Stop, Semi-Colon or Comma). This will enable a visually impaired user using a screen reader to distinguish between different ideas. Without the presence of punctuation, different ideas will be read as a single sentence and become confusing for the user.
 
 - **Use the right font:** (22 - 226 pt), sans serif fonts, and sufficient white space. Also, be consistent in your use of font, color and background, and avoid too much variation in font style and size.
 	- For people who have dyslexia or have low vision, reduce the reading load. For example, they may benefit from familiar sans serif fonts, such as Arial or Calibri. 
@@ -46,22 +46,22 @@ In general terms, the elements that are favorable towards accesibility are also 
 
 - **Accesibility of videos:** If you have videos on your presentation, make sure they are accessible to visually impaired and hearing-impaired people. Closed captions typically contain a transcription (or translation) of the dialogue, as well as describe audio cues such as music or sound effects that occur off-screen.
 
-## In-depth Advise : when Presenting 
+## In-depth Advice: when Presenting 
 
 - **Be specific when talking about visual elements in your slides:** try not to refer to ‘the red box’. Refer instead to ‘the rounded red box in the top-right of the screen’.
 
 - **Please don’t use red laser pointers**:  The red light is not easily distinguishable on bright screens. Use a green laser pointer instead. Not only are green laser pointers generally more powerful, and therefore brighter, but they are also easier to see.
 
-- **Avoid the use of gender-binary terminology on your presentation**: For example, when welcoming the audience, do not use "ladies and gentlemen", "boys and girls" or similar terminology which is not inclusive. For more information read our recommendations on [Collecting gender-inclusive data in Surveys](gender-in-surveys.md).
+- **Avoid the use of gender-binary terminology on your presentation**: For example, when welcoming the audience, do not use "ladies and gentlemen", "boys and girls", or similar terminology which is not inclusive. For more information read our recommendations on [Collecting gender-inclusive data in Surveys](gender-in-surveys.md).
 
-- Avoid the use of terminology or examples that might be inpolite towards certain groups, specially minority groups. Also  be mindful of using cliche examples that depict any social groups or communities in a way that can be percieved negatively.  
+- Avoid the use of terminology or examples that might be impolite towards certain groups, especially minority groups. Also, be mindful of using cliché examples that depict any social groups or communities in a way that can be percieved negatively.  
 
 
-## In-depth Advise: Support from Conference Organizers 
+## In-depth Advice: Support from Conference Organizers 
 
 - Live Captioning is a great idea for people with difficulties of hearing, and also useful to non-native English speakers. We propose to collect data about the need for live captioning, and to consider it in future conferences.
 - If the talk videos are published, they should include transcriptions. Youtube adds automatica transcriptions for some videos. 
-- Using a Q&A system that does not requires standing, either by bringing microphones to the audience, or by using online Q&A systems such as [sli.do](sli.do) is generally a good idea. I propose to pilot it during the workshops this year, and roll it out next year if it gets positive feedback. 
+- Using a Q&A system that does not require standing, either by bringing microphones to the audience, or by using online Q&A systems such as [sli.do](sli.do) is generally a good idea. I propose to pilot it during the workshops this year, and roll it out next year if it gets positive feedback. 
 
 
 #  Footnoes 
