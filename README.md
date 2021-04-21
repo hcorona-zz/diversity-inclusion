@@ -1,9 +1,9 @@
 # diversity-inclusion
 
-This repository collects the guideliness and ideas to run more inclusive and diverseconferences, using the [ACM Recommender Systems Conference](https://recsys.acm.org), and the [SIGACCESS Accessible Conference Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#gathering)  as an example. Please contact me using this repository [issues page](https://github.com/hcorona/diversity-inclusion/issues) if you have any questions or want to contribute
+This repository collects the guideliness and ideas to run more inclusive and diverse conferences, using the [ACM Recommender Systems Conference](https://recsys.acm.org), and the [SIGACCESS Accessible Conference Guide](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-conference-guide/#gathering)  as an example. Please contact me using this repository [issues page](https://github.com/hcorona/diversity-inclusion/issues) if you have any questions or want to contribute
 
 
-## Preparing a successful accessible and inclusive conference: 
+## Preparing a successful, accessible, and inclusive conference: 
 In order for conferences to be accessible and inclusive, the preparation should start as soon as the conference is starting to be planned. That can be up to three years in advance. In this section, the main checkpoints are discussed according to the timeline.
 
 ### Now: 
