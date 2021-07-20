@@ -3,13 +3,8 @@
 
 ## Resources
 The recommendations collected in this document are based in the following resources
-
-- [Human rights Watch](https://www.hrc.org/resources/collecting-transgender-inclusive-gender-data-in-workplace-and-other-surveys)
-- [Designing forms for gender diversity and inclusion](https://uxdesign.cc/designing-forms-for-gender-diversity-and-inclusion-d8194cf1f51) 
 - [GLAAD Media Reference Guide](http://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf) 
-- [Survery Gizmo: How to Write Gender Questions for a Survey  ](https://www.surveygizmo.com/resources/blog/how-to-write-survey-gender-questions/) 
-- [The Williams Institute, UCLA](https://williamsinstitute.law.ucla.edu/wp-content/uploads/geniuss-report-sep-2014.pdf)  
-- [Why Pronouns Are Important, UC Davis](https://shcs.ucdavis.edu/blog/archive/why-pronouns-are-important) 
+- 
 
 ### Further reading 
 
@@ -19,7 +14,7 @@ The recommendations collected in this document are based in the following resour
 
 - When collecting data, you need to proactively communicate the purpose for the self-identification questions.
 - When collecting data, you need to emphasize the confidentiality of survey answers in order to address privacy concerns. 
-- One overall recommendation is to restate the company’s commitment to non-discrimination on the basis of sexual orientation, gender identity or expression immediately prior to asking for self-identification and to clearly state the purpose of the question.
+- One overall recommendation is to restate the conference’s commitment to non-discrimination on the basis of sexual orientation, gender identity or expression immediately prior to asking for self-identification and to clearly state the purpose of the question.
 - As with all sensitive and confidential data, when asking about gender identity and sexual orientation should take care to protect how the data are used, stored and reported as well as consider any legal restrictions on data collection and storage here in the United States as well as globally.
 
 ### Gender Identity, Gender Expression and Sex 
@@ -38,16 +33,15 @@ We are actively trying to improve the inclusion and diversity at our event. In o
 
 **Question: To which gender identity do you most identify?**
 
-☐  Female
-
-☐  Male
-
 ☐  Non-binary
+
+☐  Woman
+
+☐  Man
 
 ☐  Prefer to self-describe _________________
 
 ☐  Prefer not to say
-
 
 
 
@@ -57,11 +51,11 @@ When provided, we will include your [pronouns](https://shcs.ucdavis.edu/blog/arc
 
 **Question: What is your pronoun?**
 
+☐  They/Their/Theirs
+
 ☐  He/Him/His
 
 ☐  She/Her/Hers
-
-☐  They/Their/Theirs
 
 ☐  A pronoun not listed  _________________
 
