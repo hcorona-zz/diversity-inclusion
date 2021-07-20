@@ -8,7 +8,7 @@ In order for conferences to be accessible and inclusive, the preparation should 
 
 ### Now: 
 - Have the code of conduct on the main page of the conference (see [example](https://recsys.acm.org/recsys18/) from RecSys2018)
-- Have presentation guideliness always available in the conference website, like those in the [RecSys'19 website](https://recsys.acm.org/recsys19/presentation-guidelines/). The proposed guideliness are: [accessible  presentations](https://github.com/hcorona/diversity-inclusion/blob/master/accesible-presentations.md) and the [inclusive language in presentations](https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md). 
+- Have presentation guideliness always available in the conference website, like those in the [RecSys'19 website](https://recsys.acm.org/recsys19/presentation-guidelines/). The proposed guideliness are: [accessible  presentations](https://github.com/hcorona/diversity-inclusion/blob/master/accesible-presentations.md) and the [inclusive language in presentations](https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md). For updated versions check the [RecSys'21 website](https://recsys.acm.org/recsys19/presentation-guidelines/)
 
 ### During the Conference Planning
 - If your conference is part of SIGCHI, please be aware of the high-level conference accessibility requirements [Organizing a SIGCHI Sponsored Conference](https://sigchi.org/conferences/organizer-resources/organising-a-sigchi-sponsored-or-co-sponsored-conference/#accessibility)
