@@ -4,7 +4,6 @@
 ## Resources
 The recommendations collected in this document are based in the following resources
 - [GLAAD Media Reference Guide](http://www.glaad.org/sites/default/files/GLAAD-Media-Reference-Guide-Tenth-Edition.pdf) 
-- 
 
 ### Further reading 
 
